@@ -1,0 +1,6 @@
+Alex Korp,3000
+Nikita Borisenko,2000
+Sitarama Raju,1000
+Ivan Ivanov,7000
+Ilon Mask,9000
+Megan Fox,10000
